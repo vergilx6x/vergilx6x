@@ -7,6 +7,15 @@ I'm Mohamed Amine Thami
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me how I manage my time, energy, and focus.
 
+## Summary
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vergilx6x&theme=radical)
+
+## Top Languages
+
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vergilx6x&theme=radical&exclude=exclude)
+
+
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vergilx6x&layout=compact)
