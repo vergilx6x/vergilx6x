@@ -9,11 +9,11 @@ I'm Mohamed Amine Thami
 
 ## Summary
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vergilx6x&theme=radical)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vergilx6x&theme=github_dark)
 
 ## Top Languages
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vergilx6x&theme=radical&exclude=exclude)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vergilx6x&theme=github_dark&exclude=exclude)
 
 
 ## Top Languages
